@@ -19,7 +19,7 @@ sudo ssh-keygen
 sudo ssh-copyid user1@192.168.1.1
 sudo ssh-copyid user2@192.168.1.2
 
-Client Node Vonfiguration
+Client Node Configuration
 =========================
 sudo yum update && yum upgrade -y
 sudo yum install curl wget nano vi vim net-tools python3 -y
