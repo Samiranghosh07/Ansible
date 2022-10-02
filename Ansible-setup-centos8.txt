@@ -1,6 +1,5 @@
 <<<====================Ansible Setup for CENTOS8 (Minimal Install)===============================>>>
 
-Ref Link : https://linuxhint.com/install_ansible_centos8/ 
 
 Ansible Master Node Configuration
 =================================
